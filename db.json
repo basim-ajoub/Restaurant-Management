@@ -1,0 +1,493 @@
+{
+  "admin": [
+    {
+      "name": "Basim Ajoub",
+      "email": "basemajoub@gmail.com",
+      "password": "1234567"
+    }
+  ],
+  "user": [
+    {
+      "name": "basim",
+      "email": "basem2@gmail.com",
+      "password": "123456",
+      "id": "1"
+    },
+    {
+      "name": "razandaoud",
+      "email": "razan@gmail.com",
+      "password": "7896452",
+      "id": "2"
+    },
+    {
+      "name": "ramiatfeh",
+      "email": "rami@gmail.com",
+      "password": "kalsdkada",
+      "id": "kbu-G7G"
+    },
+    {
+      "name": "samerajoub",
+      "email": "ajoub@gmail.com",
+      "password": "3232samer343",
+      "id": "gn3BY4H"
+    },
+    {
+      "name": "Hanan Dao",
+      "email": "hanan@gmail.com",
+      "password": "1234567",
+      "id": "4UYsqwz"
+    },
+    {
+      "name": "basemajjoil",
+      "email": "ahoiub@gmail.com",
+      "password": "456123",
+      "id": "ErN2osr"
+    },
+    {
+      "name": "rfefeeferfref",
+      "email": "ffffff@gmail.com",
+      "password": "456565",
+      "id": "eLuqxg3"
+    },
+    {
+      "name": "yuiyiuiyiuiyi",
+      "email": "yiuyiy@",
+      "password": "etet",
+      "id": "vfCseOA"
+    },
+    {
+      "name": "345232323532",
+      "email": "tetr@",
+      "password": "sfsd",
+      "id": "gn93hYY"
+    },
+    {
+      "name": "ewrwrwwrerewr",
+      "email": "rer@",
+      "password": "fdsf",
+      "id": "G7F2BM8"
+    }
+  ],
+  "orders": [
+    {
+      "employername": "Hanan Dao",
+      "customerorder": {
+        "no": [
+          "1",
+          "2",
+          "3"
+        ],
+        "type": [
+          "food",
+          "drinks",
+          "food"
+        ],
+        "item": [
+          "pizza L",
+          "coola",
+          "pizza L"
+        ],
+        "price": [
+          "6 $",
+          "2 $",
+          "6 $"
+        ],
+        "quantity": [
+          "1",
+          "2",
+          "1"
+        ],
+        "totalprice": [
+          "6 $",
+          "4 $",
+          "6 $"
+        ]
+      },
+      "tablenumber": "5",
+      "billnumber": "57948822063461280",
+      "billdate": "07/12/2021 13:25:19",
+      "totalbill": "100$",
+      "id": 1
+    },
+    {
+      "employername": "Hanan Dao",
+      "customerorder": {
+        "no": [
+          "1",
+          "2"
+        ],
+        "type": [
+          "drinks",
+          "sweets"
+        ],
+        "item": [
+          "Pepsi",
+          "IceCream"
+        ],
+        "price": [
+          "1.5 $",
+          "2 $"
+        ],
+        "quantity": [
+          "1",
+          "1"
+        ],
+        "totalprice": [
+          "1.5 $",
+          "2 $"
+        ]
+      },
+      "tablenumber": "10",
+      "billnumber": "5859252148559963",
+      "billdate": "07/12/2021 15:14:55",
+      "totalbill": "3.5$",
+      "id": 4
+    },
+    {
+      "employername": "Eva Bit",
+      "customerorder": {
+        "no": [
+          "1",
+          "2",
+          "3"
+        ],
+        "type": [
+          "food",
+          "food",
+          "food"
+        ],
+        "item": [
+          "Shawarma",
+          "Wings checken",
+          "Pizza Mozerila"
+        ],
+        "price": [
+          "4 $",
+          "6 $",
+          "3.5 $"
+        ],
+        "quantity": [
+          "2",
+          "3",
+          "1"
+        ],
+        "totalprice": [
+          "8 $",
+          "18 $",
+          "3.5 $"
+        ]
+      },
+      "tablenumber": "23",
+      "billnumber": "55470107984147660",
+      "billdate": "07/12/2021 13:27:17",
+      "totalbill": "29.5 $",
+      "id": 6
+    },
+    {
+      "employername": "Eva Bit",
+      "customerorder": {
+        "no": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "type": [
+          "sweet",
+          "sweet",
+          "drink",
+          "drink",
+          "food",
+          "food",
+          "food"
+        ],
+        "item": [
+          "Cack",
+          "Ice-Cream",
+          "Orange Juse",
+          "Pepsi",
+          "Pizza Salami",
+          "Shawarma",
+          "Wings checken"
+        ],
+        "price": [
+          "2 $",
+          "1.99 $",
+          "2 $",
+          "1.5 $",
+          "4.5 $",
+          "4 $",
+          "6 $"
+        ],
+        "quantity": [
+          "1",
+          "2",
+          "4",
+          "6",
+          "4",
+          "4",
+          "3"
+        ],
+        "totalprice": [
+          "2 $",
+          "3.98 $",
+          "8 $",
+          "9 $",
+          "18 $",
+          "16 $",
+          "18 $"
+        ]
+      },
+      "tablenumber": "21",
+      "billnumber": "63143877033576490",
+      "billdate": "07/12/2021 13:43:47",
+      "totalbill": "74.98 $",
+      "id": 7
+    },
+    {
+      "employername": "Hans Muler",
+      "customerorder": {
+        "no": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "type": [
+          "sweet",
+          "sweet",
+          "sweet",
+          "sweet"
+        ],
+        "item": [
+          "Ice-Cream",
+          "Ice-Cream",
+          "Cack",
+          "Cack"
+        ],
+        "price": [
+          "1.99 $",
+          "1.99 $",
+          "2 $",
+          "2 $"
+        ],
+        "quantity": [
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "totalprice": [
+          "1.99 $",
+          "1.99 $",
+          "2 $",
+          "2 $"
+        ]
+      },
+      "tablenumber": "7",
+      "billnumber": "92596732580424220",
+      "billdate": "07/12/2021 00:34:01",
+      "totalbill": "7.98 $",
+      "id": 8
+    },
+    {
+      "employername": "Hans Muler",
+      "customerorder": {
+        "no": [
+          "1",
+          "2",
+          "3"
+        ],
+        "type": [
+          "food",
+          "food",
+          "food"
+        ],
+        "item": [
+          "Pizza Mozerila",
+          "Shawarma",
+          "Wings checken"
+        ],
+        "price": [
+          "3.5 $",
+          "4 $",
+          "6 $"
+        ],
+        "quantity": [
+          "3",
+          "4",
+          "4"
+        ],
+        "totalprice": [
+          "10.5 $",
+          "16 $",
+          "24 $"
+        ]
+      },
+      "tablenumber": "3",
+      "billnumber": "22929761050725016",
+      "billdate": "07/12/2021 16:25:19",
+      "totalbill": "50.5 $",
+      "id": 9
+    },
+    {
+      "employername": "Hanan Dao",
+      "customerorder": {
+        "no": [
+          "1",
+          "2"
+        ],
+        "type": [
+          "drink",
+          "sweet"
+        ],
+        "item": [
+          "Orange Juse",
+          "Ice-Cream"
+        ],
+        "price": [
+          "2 $",
+          "1.99 $"
+        ],
+        "quantity": [
+          "2",
+          "2"
+        ],
+        "totalprice": [
+          "4 $",
+          "3.98 $"
+        ]
+      },
+      "tablenumber": "14",
+      "billnumber": "57370837123950856",
+      "billdate": "07/12/2021 16:48:47",
+      "totalbill": "7.98 $",
+      "id": 10
+    }
+  ],
+  "bills": [
+    {
+      "employername": "Hanan Dao",
+      "tablenumber": "1",
+      "billdate": "19/11/2021 11:14:22",
+      "totalbill": "45.5 $",
+      "billnumber": "8985763461587962",
+      "id": 1
+    },
+    {
+      "employername": "Hanan Dao",
+      "tablenumber": "17",
+      "billnumber": "6784037723683641",
+      "billdate": "19/11/2021 21:44:57",
+      "totalbill": "9.5$",
+      "id": 2
+    },
+    {
+      "employername": "Hans Muler",
+      "tablenumber": "8",
+      "billnumber": "41542239727427720",
+      "billdate": "20/11/2021 15:14:55",
+      "totalbill": "19.5$",
+      "id": 3
+    },
+    {
+      "employername": "Hans Muler",
+      "tablenumber": "1",
+      "billnumber": "5859252148559963",
+      "billdate": "24/11/2021 15:14:55",
+      "totalbill": "33.5$",
+      "id": 4
+    },
+    {
+      "employername": "Hanan Dao",
+      "tablenumber": "2",
+      "billnumber": "1111125585858588",
+      "billdate": "26/11/2021 13:45:33",
+      "totalbill": "18$",
+      "id": 5
+    },
+    {
+      "employername": "Hans Muler",
+      "tablenumber": "10",
+      "billnumber": "5859252148559963",
+      "billdate": "06/12/2021 12:59:42",
+      "totalbill": "3.5$",
+      "id": 6
+    },
+    {
+      "employername": "Hanan Dao",
+      "tablenumber": "8",
+      "billnumber": "9165037363684414",
+      "billdate": "07/12/2021 15:32:05",
+      "totalbill": "19.5$",
+      "id": 7
+    },
+    {
+      "employername": "Hanan Dao",
+      "tablenumber": "9",
+      "billnumber": "1014139880187015",
+      "billdate": "07/12/2021 16:29:23",
+      "totalbill": "40 $",
+      "id": 8
+    }
+  ],
+  "menu": [
+    {
+      "name": "Pizza Salami",
+      "type": "food",
+      "price": 4.5,
+      "id": 1
+    },
+    {
+      "name": "Pizza Mozerila",
+      "type": "food",
+      "price": 3.5,
+      "id": 2
+    },
+    {
+      "name": "Pepsi",
+      "type": "drink",
+      "price": 1.5,
+      "id": 3
+    },
+    {
+      "name": "Cack",
+      "type": "sweet",
+      "price": 2,
+      "id": 5
+    },
+    {
+      "name": "Shawarma",
+      "type": "food",
+      "price": 4,
+      "id": 7
+    },
+    {
+      "name": "Wings checken",
+      "type": "food",
+      "price": "6",
+      "id": 4
+    },
+    {
+      "name": "Ice-Cream",
+      "type": "sweet",
+      "price": 1.99,
+      "id": 8
+    },
+    {
+      "name": "Orange Juse",
+      "type": "drink",
+      "price": 2,
+      "id": 9
+    },
+    {
+      "name": "Cafe",
+      "type": "drink",
+      "price": 1,
+      "id": 10
+    }
+  ]
+}

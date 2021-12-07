@@ -1,0 +1,8 @@
+
+to activate data base
+run in visual studio
+json-server --watch db.json
+---------------
+to run server 
+run in cmd
+npm run serve 
